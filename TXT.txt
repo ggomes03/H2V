@@ -1,0 +1,6 @@
+gustavo@gustavo-gomes:~/Documentos/TCC/firefly$ npm init -y
+gustavo@gustavo-gomes:~/Documentos/TCC/firefly$ npm install typescript --save-dev
+gustavo@gustavo-gomes:~/Documentos/TCC/firefly$ npm install @hyperledger/firefly-sdk
+gustavo@gustavo-gomes:~/Documentos/TCC/firefly$ npm install express --save
+
+
