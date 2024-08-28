@@ -1,5 +1,5 @@
 import app from './app';
-import routes from './routes';
+import routes from './routes/routes';
 
 const server = async () => {
   try {

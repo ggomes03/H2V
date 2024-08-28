@@ -1,0 +1,12 @@
+==============CREATE TOKEN POOL=================
+
+{
+  "name": "MyToken",
+  "symbol": "MTK",
+  "type": "fungible",
+  "config": {
+    "address": "0x1234567890abcdef1234567890abcdef12345678",
+    "blockNumber": "123456"
+  }
+}
+================================================
